@@ -1,11 +1,11 @@
 # Efficient-Content-Moderation-Benchmark-Project
 
 I built this project to explore how we can make AI models that detect hate 
-speech smaller, faster, and cheaper to run — without sacrificing accuracy. 
-The techniques I used here were inspired by quantization optimization work 
-I did while consulting for Adobe. I continued to research how different companies 
-were using quantization and took inspriration from Google Gemini's 
-results after using QAT to optimize for runtime and quality.
+speech smaller, faster, and cheaper to run — without sacrificing accuracy 
+utilizing quantization. The techniques I used here were inspired by quantization 
+optimization work I did while consulting for Adobe. I continued to research 
+how different companies were using quantization and took inspriration from 
+Google Gemini's results after using QAT to optimize for runtime and quality.
 
 ## What this project does
 
