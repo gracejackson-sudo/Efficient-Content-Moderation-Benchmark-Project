@@ -102,4 +102,7 @@ LoraConfig(
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [torchao quantization library](https://github.com/pytorch/ao)
 - [tweet_eval benchmark](https://huggingface.co/datasets/tweet_eval)
-- Personal research on gemini: [Gemini Quantization]([url](https://docs.google.com/document/d/1rIVvR0m340Ki0d5uPSxrqD2RCH2La4BnyfZ817yrizQ/edit?tab=t.0))
+- [Personal research on gemini quantization](https://docs.google.com/document/d/1rIVvR0m340Ki0d5uPSxrqD2RCH2La4BnyfZ817yrizQ/edit?tab=t.0)
+- [google research on turboquant](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+- [NVIDIA intro to quantization](https://developer.nvidia.com/blog/model-quantization-concepts-methods-and-why-it-matters/)
+- [Gemini technical report](https://arxiv.org/abs/2507.06261)
